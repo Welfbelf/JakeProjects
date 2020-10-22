@@ -1,0 +1,65 @@
+Region,Division,State (FIPS),Name
+1,0,00,Northeast Region
+1,1,00,New England Division
+1,1,09,CT
+1,1,23,ME
+1,1,25,MA
+1,1,33,NH
+1,1,44,RI
+1,1,50,VT
+1,2,00,Middle Atlantic Division
+1,2,34,NJ
+1,2,36,NY
+1,2,42,PA
+2,0,00,Midwest Region
+2,3,00,East North Central Division
+2,3,17,IL
+2,3,18,IN
+2,3,26,MI
+2,3,39,OH
+2,3,55,WI
+2,4,00,West North Central Division
+2,4,19,IA
+2,4,20,KS
+2,4,27,MN
+2,4,29,MO
+2,4,31,NE
+2,4,38,ND
+2,4,46,SD
+3,0,00,South Region
+3,5,00,South Atlantic Division
+3,5,10,DE
+3,5,11,DC
+3,5,12,FL
+3,5,13,GA
+3,5,24,MA
+3,5,37,NC
+3,5,45,SC
+3,5,51,VA
+3,5,54,WV
+3,6,00,East South Central Division
+3,6,01,AL
+3,6,21,KY
+3,6,28,MS
+3,6,47,TN
+3,7,00,West South Central Division
+3,7,05,AR
+3,7,22,LA
+3,7,40,OK
+3,7,48,TX
+4,0,00,West Region
+4,8,00,Mountain Division
+4,8,04,AZ
+4,8,08,CO
+4,8,16,ID
+4,8,30,MT
+4,8,32,NV
+4,8,35,NM
+4,8,49,UT
+4,8,56,WY
+4,9,00,Pacific Division
+4,9,02,AL
+4,9,06,CA
+4,9,15,HA
+4,9,41,OR
+4,9,53,WA
